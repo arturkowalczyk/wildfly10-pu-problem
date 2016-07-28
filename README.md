@@ -1,6 +1,6 @@
-wildfly10-timerservice-problem 
+wildfly10-pu-problem 
 ==========================
-An example project demonstrating the problem with TimerService in Singleton Deployment.
+An example project demonstrating the problem with PU in Singleton Deployment.
 
 Cluster Configuration
 ------------------------------
